@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "username": "johndoe123",
+    "mail": "john.doe@example.com",
+    "age": 30
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "username": "janesmith456",
+    "mail": "jane.smith@example.com",
+    "age": 25
+  },
+  {
+    "id": "3",
+    "name": "Bob Johnson",
+    "username": "bobjohnson789",
+    "mail": "bob.johnson@example.com",
+    "age": 35
+  },
+
+  {
+    "name": "hej",
+    "username": "hej123",
+    "mail": "hej@hjk.dk",
+    "age": "12",
+    "id": 1699957199175
+  }
+]
